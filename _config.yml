@@ -2,6 +2,6 @@ title: Gael Pentang
 logo: /assets/img/MyPic_Circle.png
 description: text below image
 show_downloads: true
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-slate
 # other themes: Architect, Cayman, Dinky, Hacker, Leap day, Merlot, Midnight, Minima, Minimal, Modernist, Slate, Tactile, Time machine
